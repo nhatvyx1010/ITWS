@@ -1,0 +1,60 @@
+@charset "UTF-8";
+html{
+	height: 100%;
+}
+h2{
+	color: var(--text-1-color);
+	font-size: 1.6rem;
+	width: 60;
+	text-align: center;
+	
+}
+form{
+	padding: 2rem 3.2rem;
+	border-radius: 3rem;
+}
+button[type=submit]{
+	margin: 0.6rem auto;
+	padding: 0.24rem;
+	width: 100%;
+}
+.btn-primary{
+	margin: 0.6rem auto;
+	padding: 0.24rem;
+	width: 100%;
+}
+main{
+	margin: 0.3rem auto;
+	padding: 0.3rem;
+	max-width: 42rem;
+	display: block;
+}
+.secondary{
+	background: #fff;
+	border: 0.01rem solid #0000ff;
+	color: #676e76;
+}
+.register{
+	width:100%;
+}
+.font{
+	font-size: 3.6rem;
+}
+.container{
+	width: 100%;
+}
+.container[data-v-878436c2]{
+	width: auto;
+	max-width: none;
+	padding: 0.6rem 12rem;
+	margin: auto;
+	display: flex;
+	align-items:center;
+	justify-content: space-between;
+	background-color: #fff;
+}
+
+body {
+    height: 100%;
+    background: #eeeeee;
+}
